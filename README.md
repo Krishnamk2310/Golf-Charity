@@ -14,7 +14,7 @@ Developed as a rigorous assignment submission for the **Digital Heroes Full-Stac
 
 ## 🚀 Live Demo & Assets
 
-- **Live Application**: [*(Deploy URL here)*](#)
+- **Live Application**: https://golf-charity-pied.vercel.app/
 
 ### Test Credentials
 | Role | Email | Password |
