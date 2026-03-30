@@ -24,9 +24,7 @@ Developed as a rigorous assignment submission for the **Digital Heroes Full-Stac
 
 ---
 
-## 🎯 PRD Fulfillment Overview
-
-This application serves as the single source of truth for all requirements defined in the March 2026 PRD. It tackles all required pillars:
+## 🎯 Overview
 
 1. **Subscription Engine:** Monthly and Yearly tiered plans powered by Razorpay (handling simulated netbanking paths) complete with backend lifecycle validation in edge middleware.
 2. **Score Management Constraints:** Users can only retain a strict chronological rolling log of their `latest 5 scores`, bounded structurally to the Stableford format (1 - 45).
