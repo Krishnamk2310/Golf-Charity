@@ -45,7 +45,7 @@ Designed for scalability (multi-country rollouts and future campaign/corporate m
 - **Authentication**: [NextAuth.js v5](https://authjs.dev/) (Hybrid Edge / Node deployment)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)
 - **Media Storage**: [Cloudinary](https://cloudinary.com/)
-- **Payment Gateway**: [Razorpay](https://razorpay.com/) *(Integrated as Stripe alternative per specific technical instructions)*
+- **Payment Gateway**: [Razorpay](https://razorpay.com/) 
 - **Emails**: [Resend](https://resend.com/)
 
 ---
