@@ -1,4 +1,4 @@
-# Digital Heroes • Golf Charity Subscription Platform
+# Golf Charity Subscription Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
