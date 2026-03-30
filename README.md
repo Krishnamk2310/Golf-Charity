@@ -15,7 +15,6 @@ Developed as a rigorous assignment submission for the **Digital Heroes Full-Stac
 ## 🚀 Live Demo & Assets
 
 - **Live Application**: [*(Deploy URL here)*](#)
-- **PRD Compliance**: [Review the `prd_evaluation.md`](./prd_evaluation.md) (100% Core Requirements Met)
 
 ### Test Credentials
 | Role | Email | Password |
